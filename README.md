@@ -37,9 +37,9 @@ Ler um artigo não é o mesmo que ler um post em um blog ou um romance. Aqui est
 
 ### Quer se apresentar?
 
-• Envie uma proposta de palestra no nosso [GitHub](https://github.com/papers-we-love/joinville/issues/new)
-• Para idéias de artigos, a PWL mantém um [repositório de artigos](https://github.com/papers-we-love/papers-we-love)
-• Sinta-se livre para entrar em contato com um(a) dos(as) organizadores(as) se tiver alguma dúvida
+* Envie uma proposta de palestra no nosso [GitHub](https://github.com/papers-we-love/joinville/issues/new)
+* Para idéias de artigos, a PWL mantém um [repositório de artigos](https://github.com/papers-we-love/papers-we-love)
+* Sinta-se livre para entrar em contato com um(a) dos(as) organizadores(as) se tiver alguma dúvida
 
 Por favor, leia e siga o Código de Conduta (https://github.com/papers-we-love/joinville/blob/master/codigo-de-conduta.md),
 e não hesite em informar os organizadores(as), se alguma coisa te incomodou.
