@@ -31,9 +31,9 @@ Da mesma forma, aprender é uma atividade divertida!
 
 Ler um artigo não é o mesmo que ler um post em um blog ou um romance. Aqui estão alguns recursos úteis para ajudá-lo a começar.
 
-• [Como ler um artigo acadêmico](http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
-• [Como ler e entender um artigo científico](http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
-• [O Reino Refrescamente Recompensador dos Artigos de Pesquisa](https://www.youtube.com/watch?v=8eRx5Wo3xYA)
+* [Como ler um artigo acadêmico](http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
+* [Como ler e entender um artigo científico](http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
+* [O Reino Refrescamente Recompensador dos Artigos de Pesquisa](https://www.youtube.com/watch?v=8eRx5Wo3xYA)
 
 ### Quer se apresentar?
 
